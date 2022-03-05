@@ -33,9 +33,9 @@ http://gg.gg/vtv9hd_
 http://gg.gg/vtc1hd_
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="",VTC2
 http://gg.gg/vtc2_
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="",VTC3 HD
 http://gg.gg/vtc3hd_
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="",VTC4 HD
 http://gg.gg/vtc4hd_
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="",VTC5
 http://gg.gg/vtc5hd_
@@ -45,7 +45,7 @@ http://gg.gg/vtc6hd_
 http://gg.gg/vtc7hd_
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="",VTC8
 http://gg.gg/vtc8_
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="",VTC9
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="",VTC9 HD
 http://gg.gg/vtc9hd_
 #EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="",VTC10
 http://gg.gg/vtc10hd_
@@ -55,9 +55,9 @@ http://gg.gg/vtc11_
 http://gg.gg/vtc12_
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="",VTC13
 http://gg.gg/vtc13hd_
-#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="",VTC14
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="",VTC14 HD
 http://gg.gg/vtc14hd_
-#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="",VTC16
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="",VTC16 HD
 http://gg.gg/vtc16hd_
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="",HTV1
