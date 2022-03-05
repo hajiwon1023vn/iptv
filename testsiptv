@@ -9,9 +9,6 @@ http://gg.gg/myklife_
 http://gg.gg/myksport1_
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="",K+ Sport2
 http://gg.gg/myksport2_
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="",K+ Kids
-http://gg.gg/kkids
-
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="",VTV1 HD
 http://gg.gg/vtv1hd_
@@ -75,27 +72,27 @@ http://gg.gg/htv4_
 http://gg.gg/htv7hd_
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="",HTV9 HD
 http://gg.gg/htv9hd_
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="",
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="",HTV Thể Thao
 http://gg.gg/htvthethao_
-#EXTINF:-1 tvg-id="	htvcfbnc" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcfbnc
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcthuanviet_
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcthuanviethd_
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcgiadinh_
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcphunu_
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcmusic_
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcphimhd_
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcplus_
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="",
-http://gg.gg/htvcdlcs_
-#EXTINF:-1 tvg-id="" group-title="HTVC" tvg-logo="",
+#EXTINF:-1 tvg-id="" group-title="HTVC" tvg-logo="",HTV Coop
 http://gg.gg/htvcoop_
-#EXTINF:-1 tvg-id="" group-title="HTVC" tvg-logo="",
+#EXTINF:-1 tvg-id="	htvcfbnc" group-title="HTVC" tvg-logo="",HTVC FBNC
+http://gg.gg/htvcfbnc
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="",HTVC Thuần Việt
+http://gg.gg/htvcthuanviet_
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTVC" tvg-logo="",HTVC Thuần Việt HD
+http://gg.gg/htvcthuanviethd_
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="",HTVC Gia Đình
+http://gg.gg/htvcgiadinh_
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="",HTVC Phụ Nữ
+http://gg.gg/htvcphunu_
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="",HTVC Ca Nhạc
+http://gg.gg/htvcmusic_
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="",HTVC Phim
+http://gg.gg/htvcphimhd_
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="",HTVC Plus
+http://gg.gg/htvcplus_
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="",HTVC Du Lịch Cuộc Sống
+http://gg.gg/htvcdlcs_
+#EXTINF:-1 tvg-id="" group-title="HTVC" tvg-logo="",HTVC Shopping
 http://gg.gg/htvcshopping_
