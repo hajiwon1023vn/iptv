@@ -133,8 +133,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8?cc|Referer=htt
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/M85FLWM/VCab17-cc.webp",VTVcab17
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/hWXSY2n/VCab18-cc.webp",VTVcab18
-#http://gg.gg/cccab18|Referer=https://www.nonolive.com/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab18/index.m3u8?cc|Referer=http://sctvonline.vn/
+http://gg.gg/cccab18|Referer=https://www.nonolive.com/
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/p3hQg2G/cab19.png",VTVcab19
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/ypBfbyF/VCab20-cc.webp",VTVcab20
