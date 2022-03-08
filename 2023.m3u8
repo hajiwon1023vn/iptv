@@ -105,7 +105,6 @@ http://gg.gg/htvcshopping_
 #http://gg.gg/cccab1|Referer=http://sctvonline.vn/
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/JnhVYWw/VCab2-cc.webp",VTVcab2
-#https://dl.dropboxusercontent.com/s/9m89cjrgkl6hlk9/ 	
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/GTCWRPB/VCab3-cc.webp",VTVcab3
 https://dl.dropboxusercontent.com/s/01umyyk8l763njs/ 	
