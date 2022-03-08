@@ -91,7 +91,8 @@ http://gg.gg/htvcshopping_
 
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/rk7zzZn/VCab1-cc.webp",VTVcab1
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?cc|Referer=http://sctvonline.vn/
+https://dl.dropboxusercontent.com/s/buav21fiml1cvb1/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/JnhVYWw/VCab2-cc.webp",VTVcab2
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/GTCWRPB/VCab3-cc.webp",VTVcab3
