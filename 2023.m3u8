@@ -179,3 +179,12 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8?cc|Referer=http:
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/hFP3xf8/BTV5-cc.webp",BTV5
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?cc|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/ccmYhLh/Vinh-Long1-cc.webp",TH Vĩnh Long
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/ccmYhLh/Vinh-Long2-cc.webp",TH Vĩnh Long
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/ccmYhLh/Vinh-Long3-cc.webp",TH Vĩnh Long
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://i.ibb.co/ccmYhLh/Vinh-Long4-cc.webp",TH Vĩnh Long
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
