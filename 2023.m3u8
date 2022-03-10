@@ -126,7 +126,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8?cc|Referer=http://
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?cc|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/ypBfbyF/VCab20-cc.webp",VTVcab20
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?cc|Referer=http://sctvonline.vn/
-
+#EXTINF:0 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/poster/18711.png",VTVcab23
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8?cc
 
 
 
