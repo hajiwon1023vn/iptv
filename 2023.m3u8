@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/png/104.png",VTV1 HD
 http://gg.gg/vtv1hd_
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="",VTV2 HD
 http://gg.gg/vtv2hd_
